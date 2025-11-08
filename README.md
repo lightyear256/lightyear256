@@ -2,6 +2,8 @@
 - 👀 I’m interested in coding stuffs
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Projects
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=lightyear256)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayushmaan-kumar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushmaank25@gmail.com) 
 
